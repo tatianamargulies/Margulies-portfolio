@@ -2,6 +2,7 @@
 This is my public portfolio for the "Telling Stories with Data" class at CMU!
 
 # About me
+https://github.com/tatianamargulies/Margulies-portfolio/issues/1#issue-803173934
 This is Tatiana Margulies, student of Master of Science in information Technology with orientation in Business Intelligence and Data Analytics.
 
 # What I hope to learn
