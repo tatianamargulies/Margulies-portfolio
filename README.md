@@ -9,4 +9,4 @@ I am particularly interested in this course because I work with Tableau Dashboar
 
 # Portfolio
 
-A2: [Go to Government Visualization](Assignment2.md)
+[Assignment2](Assignment2.md)
