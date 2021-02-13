@@ -6,13 +6,13 @@ It shows the debt for each country as a % of the GDP, highlighting the highest v
 <iframe src="https://data.oecd.org/chart/6gJY" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gJY" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-# Debt to GDP ratio - by country and year
+# Trend of Debt to GDP ratio by country
 
 This shows a grid of lines with each country as a different graph, showing the debt to GDP ratio over the years from 1995 until 2018.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5284504"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Highest Debt to GDP ratio 
+# Highest Debt to GDP ratio country
 
 This is a pie chart which shows the comparison of only some countries to quickly identify which is the country with highest and lowest debt to GDP ratio each year. It is ordered by values to follow the order of the pie. The interactive filter allows us to select the year of comparison instead of showing all the information, which makes the graph visually easy to understand. The color scale used is good for colorblind people.
 
