@@ -18,7 +18,7 @@ This is a pie chart which shows the comparison of only some countries to quickly
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5284700"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The three methods used to analyze the dataset were: bar graph, grid of lines and pie chart. 
+The three methods used to analyze the dataset were: bar graph, grid of lines and pie chart. All of them shows the debt-to GDP ratio using comparison with countries or years.
 
 The bar graph has all the information that is necessary to understand the story that the data is telling, the countries and the values of the ratio. However, it only shows 2018 year which is good because it is the latest available year but at the same time, the user could be interested in looking at comparison among other years. As the graph is showing all the countries, I only highlighted the top debt-to GDP ratio countries so that the user can quickly identify them. It shows that in 2018, Italy, Greece and Japan were the countries with the highest ratio.
 
