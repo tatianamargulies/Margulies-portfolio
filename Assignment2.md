@@ -6,7 +6,7 @@ It shows the debt for each country as a % of the GDP, highlighting the highest v
 <iframe src="https://data.oecd.org/chart/6gJY" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gJY" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-# Debt to GDP ratio (by country and year) (using Flourish)
+# Debt to GDP ratio - by country and year
 
 This shows a grid of lines with each country as a different graph, showing the debt to GDP ratio over the years from 1995 until 2018.
 
