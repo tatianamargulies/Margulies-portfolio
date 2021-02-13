@@ -8,6 +8,6 @@ It shows the debt for each country as a % of the GDP, highlighting the highest v
 
 # Visualization 1 Using Flourish
 
-This shows a grid of lines with each country as a different graph, showing the debt to GDP ratio over the years from 1995 until 2018
+This shows a grid of lines with each country as a different graph, showing the debt to GDP ratio over the years from 1995 until 2018.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5284504"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
