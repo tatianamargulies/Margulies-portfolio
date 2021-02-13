@@ -1,4 +1,4 @@
-# This is the visualization for the General Government Debt
+# Visualization for the General Government Debt
 
 
 It shows the debt for each country as a % of the GDP, highlighting the highest values in 2018.
