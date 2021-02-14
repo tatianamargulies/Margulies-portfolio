@@ -26,3 +26,5 @@ The grid of lines shows the trend for all the years, providing the trend for eac
 
 The pie chart shows the exact values of the ratio for the countries, so we can quickly identify the highest values. I compared only some countries as it is less busy and communicates the idea clearer. The filter functionality solves the problem of the years as we can select the year that we want to see. For example, in 1996, Belgium has the highest ratio.
 
+The reason behind provinding this information is that it could be useful for different stakeholders. For investors to analyze in which country they would like to invest or if starting new businesses and also, for the government is useful to make a more efficient use of the resources in future and improve the situation of the country.
+
