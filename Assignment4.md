@@ -1,5 +1,7 @@
 # Original Visualization
 
+This is the visualization that I chose which shows Frequency of News usage divided by categories and age.
+
 ![Screenshot](Original.png)
 
 # Process
