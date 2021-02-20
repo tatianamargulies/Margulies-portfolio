@@ -25,6 +25,10 @@ With the changes I made to the original bar graph they understood quicky the ide
 
 •	Changing title name to a question representing what the data wants to answer.
 
+These are the sketches that I have created based on the feedback received,
+
+![Screenshot](Sketches.png)
+
 I found very interesting the fact that changing the axis could simplify the understanding of the idea. I did not have that idea when I was first looking at the graph. Also, the title using a question I think it is powerful because you associate the answer to the question directly in the data you are looking at.
 
 # Final Visualization
