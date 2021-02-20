@@ -1,6 +1,6 @@
 # Original Visualization
 
-This is the visualization that I chose which shows Frequency of Electronic News usage divided by categories and age. It can also be accesed using this source ![Link](https://www.cc.gatech.edu/gvu/user_surveys/survey-10-1996/graphs/use/Electronic_News.html)
+This is the visualization that I chose which shows Frequency of Electronic News usage divided by categories and age. It can also be accesed using this source [Link](https://www.cc.gatech.edu/gvu/user_surveys/survey-10-1996/graphs/use/Electronic_News.html)
 
 ![Screenshot](Original.png)
 
