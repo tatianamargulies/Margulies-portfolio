@@ -1,8 +1,12 @@
 # Original Visualization
 
-This is the visualization that I chose which shows Frequency of News usage divided by categories and age.
+This is the visualization that I chose which shows Frequency of Electronic News usage divided by categories and age. It can also be accesed using this source ![Link](https://www.cc.gatech.edu/gvu/user_surveys/survey-10-1996/graphs/use/Electronic_News.html)
 
 ![Screenshot](Original.png)
+
+# Choice
+
+I selected this visualization because I am coming from a quantitative background and I am interested in topics related to statistics comparisons, trends, or projections. I think it is very useful to summarize results using percentages because everyone can understand easily when something is good or not. Also, it was a simple graph but I though that even if it was simple, the way it was designed was not simple! I wanted to simplify the graph. The second reason is that I could replicate the data in a csv file and use the table to redesign my graph. At the beginning, I was struggling finding an interesting graph with public data available.
 
 # Process
 
@@ -23,12 +27,9 @@ With the changes I made to the original bar graph they understood quicky the ide
 
 I found very interesting the fact that changing the axis could simplify the understanding of the idea. I did not have that idea when I was first looking at the graph. Also, the title using a question I think it is powerful because you associate the answer to the question directly in the data you are looking at.
 
-# Choice
-
-I selected this visualization because I am coming from a quantitative background and I am interested in topics related to statistics comparisons, trends, or projections. I think it is very useful to summarize results using percentages because everyone can understand easily when something is good or not. Also, it was a simple graph but I though that even if it was simple, the way it was designed was not simple! I wanted to simplify the graph. The second reason is that I could replicate the data in a csv file and use the table to redesign my graph. At the beginning, I was struggling finding an interesting graph with public data available.
-The final visualization I created in Tableau shows the answer to the question in the title. Who consumes more electronic news? It is divided by age groups and it shows three categories which are: once a day, multiple times a day and multiple times a week. We can see the percentage of population under each category and age range. It is more clear and visually appealing. I showed again the final visualization to my peers and they were happy with the changes I implemented in the final graph.
-
 # Final Visualization
+
+The final visualization I created in Tableau shows the answer to the question in the title. Who consumes more electronic news? It is divided by age groups and it shows three categories which are: once a day, multiple times a day and multiple times a week. We can see the percentage of population under each category and age range. It is more clear and visually appealing. I showed again the final visualization to my peers and they were happy with the changes I implemented in the final graph.
 
 <iframe
 src="https://public.tableau.com/views/A3_16137944666540/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
