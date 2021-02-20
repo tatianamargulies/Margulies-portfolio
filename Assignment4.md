@@ -1,3 +1,6 @@
+# Original Visualization
+
+![Screenshot](Original.png)
 
 # Process
 
