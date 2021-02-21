@@ -29,7 +29,7 @@ I asked the questions provided to see what the graph was lacking with the change
 
 •	Changing title name to a question representing what the data wants to answer.
 
-These are the sketches that I have created based on the feedback received. As you can see, I changed the axis in the second trial and then I changed the title again, I added the labels to show values and I added the source at the bottom of the visualization.
+These are the sketches that I have created based on the feedback received. As you can see, I changed the axis in the second trial and then I changed the title again and I added the labels to show values.
 
 ![Screenshot](Sketches.jpg)
 
@@ -37,7 +37,7 @@ I found very interesting the fact that changing the axis could simplify the unde
 
 # Final Visualization
 
-When I was sure that the last sketch was representing well the idea, I proceeded to create the final visualization. I created the graph using Tableau and it shows the answer to the question in the title. Who consumes more electronic news? It is divided by age groups and it shows three categories which are: once a day, multiple times a day and multiple times a week. We can see the percentage of population under each category and age range. It is more clear and visually appealing. I showed again the final visualization to my peers and they were happy with the changes I implemented in the final graph.
+When I was sure that the last sketch was representing well the idea, I proceeded to create the final visualization. I created the graph using Tableau and it shows the answer to the question in the title. Who consumes more electronic news? It is divided by age groups and it shows three categories which are: once a day, multiple times a day and multiple times a week. We can see the percentage of population under each category and age range. I also added the source of data at the bottom of the graph which I noticed it could be useful. Now it is more clear and visually appealing. I showed again the final visualization to my peers and they were happy with the changes I implemented in the final graph.
 
 <iframe
 src="https://public.tableau.com/views/A3_16137944666540/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
