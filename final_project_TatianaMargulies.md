@@ -10,15 +10,15 @@ A project structure that outlines the major elements of your story.  Your Good C
 # Data
 The data to be used in the project consist of three different datasets,
 
-1) Life expectancy: This dataset includes information about all the countries with different time periods from 2000 to 2015. It shows the life expectancy values for each country, some diseases such as HIV/Hepathitis/ Measles, infant deaths, public expenditure on health, schooling, etc.
+1) Life expectancy: This is the main dataset which includes information about all the countries with different time periods from 2000 to 2015. It shows the life expectancy values for each country, some diseases such as HIV/Hepathitis/ Measles, infant deaths, developed countries, public expenditure on health, schooling, etc. It is going to be used as the main dataset to analyze. The idea is to create trendlines of life expectancy over time for some countries, a map visualizing developed vs developing countries, bar charts analizing some diseases/public spenditure for comparisons.
 
 Source: [World Health Organization (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
 
-2) Mapping of continents: This dataset has the mapping of countries and continents to provide some information at a higher level. It will be used at the beginning to show a summary of the situation by continent instead of showing all the countries in the previous dataset.
+2) Mapping of continents: This dataset has the mapping of countries and continents to provide some information at a higher level. It will be used at the beginning to show a summary of the situation by continent instead of showing all the countries. This is an intermediate dataset to summarize information but it does not provide new data, only different grouping not to overload the reader with the visualizations.
 
 Source: [United Nations Statistics Division](https://statisticstimes.com/geography/countries-by-continents.php)
 
-3) Happiness world index: This dataset has a list of countries with the happiness score for each country as well as the rank. It also shows how factors such as family, trust in government, generosity, contribute to the happiness score. It is going to be merged with the life expectancy dataset
+3) Happiness world index: This dataset has a list of countries with the happiness score for each country as well as the rank. It also shows how factors such as family, trust in government, generosity, contribute to the happiness score. It is going to be merged with the life expectancy dataset using the country as the primary key and the idea will be to use the generosity information to show that for some countries with low life expectancy, it can be a powerful factor to improve the average in the long term.
  
 Source: [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness)
 
