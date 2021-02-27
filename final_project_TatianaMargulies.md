@@ -12,6 +12,12 @@ Project structure
 
 # Initial Sketches
 
+These are the sketches that give an idea of the setup, the conflict and the resolution,
+
+![Image1](sketch1.jpg)
+![Image2](sketch2.jpg)
+
+
 # Data
 
 The data to be used in the project consist of three different datasets,
