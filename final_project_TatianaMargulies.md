@@ -1,9 +1,6 @@
 # Outline
 
-The idea of the project is to give hope to people that life expectancy in poor countries like some in Africa can substantially increase. I will start showing that there is a correlation with factors like GDP,diseases, deaths and therefore, high/low life expectancy. However, one of my findings is that generosity has not usually been considered but has the power to help these countries to improve their life expectancy. The audience is the population and the message is motivational. It is to convince them that even if there are things that as individuals we cannot control because they are external and related more to government strategies, policies, development of country, everyone can have a little contribution to solve this problem by adopting generous practices in our daily lives.
-
-A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
-A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve
+The idea of the project is to give hope to people that life expectancy in poor countries like some in Africa can substantially increase. I will start showing that there is a correlation with factors like GDP,diseases, deaths and therefore, high/low life expectancy. However, one of my findings is that generosity is higher in the countries that are less developed and this is something that we have control about. Improving the life expectancy starts with us. The audience is the population and the message is motivational. It is to convince them that even if there are things that as individuals we cannot control because they are external and more related to government strategies, policies, development of country, etc everyone can make a little contribution to solve this problem by adopting generous practices in our daily lives.
 
 # Initial Sketches
 
@@ -27,4 +24,6 @@ Source: [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness)
 # Method and Medium
  The project is going to be developed using shorthand as a tool to create the presentation and the tool to generate the visualizations will be mainly Tableau.
  The reason of using shorthand is that it is powerful for presentations, it provides many functionalities and features that other platforms do not have. It is eye-catching for the audience so it helps to build the idea in an engaging way. Tableau is user-friendly as well and it provides the possibility of building dashboards if I want to compare more than one graph.
+ 
+The development of the project will start by contrasting in a map the countries that are developed and developing. Once we have an idea about geographical regions we will start summarizing the data by continents to go from general to more specific information. The idea will be to compare variables like life expectancy, GDP, public spenditure, diseases. Then, we can focus the attention on the countries with highest life expectancy and lowest life expectancy to compare them and try to identify the reasons behind the values. Finally, the idea will be to show that living longer depends on the factors analyzed but something important that nobody considered is that social skills like generosity are higher in the countries which are less developed. And the poweful thing here is that we have control about that, so living longer could start with us.
  
