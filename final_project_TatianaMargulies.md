@@ -14,8 +14,9 @@ Project structure
 
 These are the sketches that give an idea of the setup, the conflict and the resolution,
 
-![Image1](sketch1.jpg)
-![Image2](sketch2.jpg)
+![Image1](Sketch1.jpg)
+
+![Image2](Sketch2.jpg)
 
 
 # Data
