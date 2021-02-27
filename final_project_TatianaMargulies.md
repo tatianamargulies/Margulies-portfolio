@@ -13,6 +13,7 @@ The data to be used in the project consist of three different datasets,
 1) Life expectancy: This is the main dataset which includes information about all the countries with different time periods from 2000 to 2015. It shows the life expectancy values for each country, some diseases such as HIV/Hepathitis/ Measles, infant deaths, developed countries, public expenditure on health, schooling, etc. It is going to be used as the main dataset to analyze. The idea is to create trendlines of life expectancy over time for some countries, a map visualizing developed vs developing countries, bar charts analizing some diseases/public spenditure for comparisons.
 
 Source: [World Health Organization (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
+You can also download the file here: [Dataset](Life Expectancy Data.csv)
 
 2) Mapping of continents: This dataset has the mapping of countries and continents to provide some information at a higher level. It will be used at the beginning to show a summary of the situation by continent instead of showing all the countries. This is an intermediate dataset to summarize information but it does not provide new data, only different grouping not to overload the reader with the visualizations.
 
@@ -25,4 +26,5 @@ Source: [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness)
 
 # Method and Medium
  The project is going to be developed using shorthand as a tool to create the presentation and the tool to generate the visualizations will be mainly Tableau.
+ The reason of using shorthand is that it is powerful for presentations, it provides many functionalities and features that other platforms do not have. It is eye-catching for the audience so it helps to build the idea in an engaging way. Tableau is user-friendly as well and it provides the possibility of building dashboards if I want to compare more than one graph.
  
