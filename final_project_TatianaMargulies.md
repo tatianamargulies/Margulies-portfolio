@@ -2,6 +2,14 @@
 
 The idea of the project is to give hope to people that life expectancy in poor countries like some in Africa can substantially increase. I will start showing that there is a correlation with factors like GDP,diseases, deaths and therefore, high/low life expectancy. However, one of my findings is that generosity is higher in the countries that are less developed and this is something that we have control about. Improving the life expectancy starts with us. The audience is the population and the message is motivational. It is to convince them that even if there are things that as individuals we cannot control because they are external and more related to government strategies, policies, development of country, etc everyone can make a little contribution to solve this problem by adopting generous practices in our daily lives.
 
+Project structure
+
+-Setup: Developed countries have higher life expectancy than developing countries.
+
+-Conflict: The reasons driving life expectancy appear to be external, related to government policies/strategies
+
+-Resolution: Generosity could make us live longer and as it is internal, we can adopt it.
+
 # Initial Sketches
 
 # Data
