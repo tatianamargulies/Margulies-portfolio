@@ -5,12 +5,13 @@ The idea of the project is to give hope to people that life expectancy in poor c
 # Initial Sketches
 
 # Data
+
 The data to be used in the project consist of three different datasets,
 
 1) Life expectancy: This is the main dataset which includes information about all the countries with different time periods from 2000 to 2015. It shows the life expectancy values for each country, some diseases such as HIV/Hepathitis/ Measles, infant deaths, developed countries, public expenditure on health, schooling, etc. It is going to be used as the main dataset to analyze. The idea is to create trendlines of life expectancy over time for some countries, a map visualizing developed vs developing countries, bar charts analizing some diseases/public spenditure for comparisons.
 
 Source: [World Health Organization (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
-You can also download the file here: [Dataset](https://github.com/tatianamargulies/Margulies-portfolio/Life Expectancy Data.csv)
+
 
 2) Mapping of continents: This dataset has the mapping of countries and continents to provide some information at a higher level. It will be used at the beginning to show a summary of the situation by continent instead of showing all the countries. This is an intermediate dataset to summarize information but it does not provide new data, only different grouping not to overload the reader with the visualizations.
 
