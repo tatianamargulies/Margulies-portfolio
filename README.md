@@ -15,6 +15,6 @@ Projects:
 
 2) [Assignment4](Assignment4.md)
 
---Final Project
+**Final Project**
 
 3) [Final Project - Part 1](final_project_TatianaMargulies.md)
