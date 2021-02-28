@@ -9,7 +9,7 @@ I am particularly interested in this course because I work with Tableau Dashboar
 
 # Portfolio
 
-**Assignments:**
+**Assignments**
 
 1) [Assignment2](Assignment2.md)
 
