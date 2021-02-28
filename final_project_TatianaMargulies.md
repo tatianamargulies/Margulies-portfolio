@@ -23,7 +23,7 @@ These are the sketches that give an idea of the setup, the conflict and the reso
 
 The data to be used in the project consist of three different datasets,
 
-1) Life expectancy: This is the main dataset which includes information about all the countries with different time periods from 2000 to 2015. It shows the life expectancy values for each country, some diseases such as HIV/Hepathitis/ Measles, infant deaths, developed countries, public expenditure on health, schooling, etc. It is going to be used as the main dataset to analyze. The idea is to create trendlines of life expectancy over time for some countries, a map visualizing developed vs developing countries, bar charts analizing some diseases/public spenditure for comparisons.
+1) Life expectancy: This is the main dataset which includes information about all the countries with different time periods from 2005 to 2015. It shows the life expectancy values for each country, some diseases such as HIV/Hepathitis/ Measles, infant deaths, developed countries, public expenditure on health, schooling, etc. It is going to be used as the main dataset to analyze. The idea is to create trendlines of life expectancy over time for some countries, a map visualizing developed vs developing countries, bar charts analizing some diseases/public spenditure for comparisons.
 
 Source: [World Health Organization (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
 
