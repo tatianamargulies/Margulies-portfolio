@@ -28,7 +28,7 @@ The data to be used in the project consist of three different datasets,
 Source: [World Health Organization (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
 
 
-2) Mapping of continents: This dataset has the mapping of countries and continents to provide some information at a higher level. It will be used at the beginning to show a summary of the situation by continent instead of showing all the countries. This is an intermediate dataset to summarize information but it does not provide new data,it is a different grouping that I will use not to overload the reader with the visualizations.
+2) Mapping of continents: This dataset has the mapping of countries and continents to provide some information at a higher level. It will be used at the beginning to show a summary of the situation by continent instead of showing all the countries. This is an intermediate dataset to summarize information but it does not provide new data,it is a different grouping that I will use not to overload the reader with the visualizations. The report was created for different years but I will use the information of the same year that I have in the life expectancy dataset so that I can compare insights.
 
 Source: [United Nations Statistics Division](https://statisticstimes.com/geography/countries-by-continents.php)
 
