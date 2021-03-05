@@ -45,3 +45,12 @@ The third participant answered the following,
 | Emotions  | How did you feel after reading?   | Contenido de la celda  |
 | Motivation  | Were you inspired to think that you can make a change possible?  | Contenido de la celda  |
 | Improvement | What worked well and bad? Is there anything that you would change?  | Contenido de la celda  |
+
+# Plant To Implement New Insights
+
+After talking to some people and getting their feedback, I analyzed the answers and I thought of implementing these changes in the final version of the project so that my story results more effective.
+
+
+
+
+
