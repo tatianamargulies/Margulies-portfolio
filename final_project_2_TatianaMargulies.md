@@ -8,6 +8,10 @@ Population of undeveloped countries like Sierra Leone in Africa with poor distri
 
 Coming from an actuarial background, I was interested in the longevity topic and I have a passion to help people and try to create a better future for the next generation. When I found this topic, I thought it was going to be a great opportunity to combine both aspects. Sometimes we tend to believe that the drivers behind the current problems are external and we do not realize that we can contribute to an extend to make the change possible. I want to raise awareness and give hope with my findings.
 
+**Approach to identifying individuals**
+
+The objective in my approach will be to gather people from different backgrounds so that we do not bias the results. For example, one participant is a psychology students given that they she is interested in my findings about the relationship between social factors and longevity. Also, I asked the questions to a low class person so that he can give more feedback about how to approach my audience in conveying the general message. The questions asked are related to understanding of the story, previous knowledge, consistency, visualization critique, emotional aspects, motivation to contribute to a change and finally, feedback for improvement.
+
 # Interview Findings
 
 The first participant answered the following,
