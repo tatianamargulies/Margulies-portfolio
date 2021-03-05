@@ -9,7 +9,12 @@ Coming from an actuarial background, I was interested in the longevity topic and
 # Interview Findings
 
 
-| Objective     | Question      |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+| Objective     | Question      | Feedback      |
+| ------------- | ------------- | ------------- |
+| Understanding  | Do you understand the message of the story? Do you know who the target audience is?  | Contenido de la celda  |
+| Previous knowledge  | Did you know about the relationship between social factors and life expectancy?  | Contenido de la celda  |
+| Consistency  | Do the visualizations support the idea? Did you find anything confusing?  | Contenido de la celda  |
+| Design  | Do the colors/design/layout/size/labels/etc are appropriate? Are the visualization eye-catching?  | Contenido de la celda  |
+| Emotions  | How did you feel after reading?   | Contenido de la celda  |
+| Motivation  | Were you inspired to think that you can make a change possible?  | Contenido de la celda  |
+| Area of Improvement | What worked well and bad? Is there anything that you would change?  | Contenido de la celda  |
