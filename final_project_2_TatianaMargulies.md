@@ -1,3 +1,9 @@
+# Moodboard
+
+I created this moodboard using Canva which shows a sense of hope and happiness given that life expectancy could improve by focusing on the social factors. I thought it was a good idea to give a more visual focus on my message. I will try to incorporate some of these ideas in the final project
+
+![Moodboard](Moodboard.jpg)
+
 # User Research Protocol
 
 **Target Audience**
