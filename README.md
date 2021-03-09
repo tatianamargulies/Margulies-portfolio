@@ -18,4 +18,4 @@ I am particularly interested in this course because I work with Tableau Dashboar
 **Final Project**
 
 3) [Final Project - Part 1](final_project_TatianaMargulies.md)
-4) [Final Project - Part 2](final_project_part2_TatianaMargulies.md)
+4) [Final Project - Part 2](final_project_2_TatianaMargulies.md)
