@@ -31,14 +31,14 @@ Coming from an actuarial background, I was interested in the longevity topic and
 
 **Approach to identifying individuals**
 
-The objective in my approach will be to gather people from different backgrounds so that we do not bias the results. For example, one participant is a psychology students given that they she is interested in my findings about the relationship between social factors and longevity. Also, I asked the questions to a low class person so that he can give more feedback about how to approach my audience in conveying the general message. The questions asked are related to understanding of the story, previous knowledge, consistency, visualization critique, emotional aspects, motivation to contribute to a change and finally, feedback for improvement.
+The objective in my approach will be to gather people from different backgrounds so that we do not bias the results. For example, one participant is a psychology student. Why? Because my topic is related to a change in behaviour and the relationship between social factors and longevity. She will be interested in the topic and she could give me constructive feedback about ideas to implement and show the findings. Also, I asked the questions to a low class person so that he can give more feedback about how to approach my audience in conveying the general message. My audience is people with low resources so he may be more touched about the story and help me with the emotional and motivational goal. I prepared a script with questions and the approach will be to show them the presentation and then think of answers to my questions. The questions asked are related to understanding of the story, previous knowledge, consistency, visualization critique, emotional aspects, motivation to contribute to a change and finally, feedback for improvement.
 
 
 # Research Goals
 
 The main goals that I had before starting the interviews were,
 
--Understanding: I wanted to know if the participants got the key message of the story and understood who was the target audience I was planning to get attention from. This is esential and if it is not clear, it means I need to adjust the story.
+- Understanding: I wanted to know if the participants got the key message of the story and understood who was the target audience I was planning to get attention from. This is esential and if it is not clear, it means I need to adjust the story.
 
 - Previous Knowledge: As this topic is not so well-known, I wanted to see if people had an idea about my findings before reading the story I showed them. This also helps to see if people who are not familiar with the topic can follow the flow of the story
 
@@ -60,13 +60,13 @@ Thank you for your time in helping me with your feedback.
 
 I am doing a project for a course at university called "Telling Stories With Data". I am doing a final project and I chose to talk about Life expectancy in poor countries. This is a draft of what the final project is going to look like. I appreciate if you can help me reading the presentation and answering the following questions to improve the final version. I would like to evaluate these aspects in order to prepare a more persuasive presentation and reach my target audience.
 
--Do you understand the message of the story? Do you know who the target audience is?
--Did you know about the relationship between social factors and life expectancy?
--Do the visualizations support the idea? Did you find anything confusing? 
--Do the colors/design/layout/size/labels/etc are appropriate? Are the visualization eye-catching? 
--How did you feel after reading? 
--Were you inspired to think that you can make a change possible?
--What worked well and bad? Is there anything that you would change? 
+- Do you understand the message of the story? Do you know who the target audience is?
+- Did you know about the relationship between social factors and life expectancy?
+- Do the visualizations support the idea? Did you find anything confusing? 
+- Do the colors/design/layout/size/labels/etc are appropriate? Are the visualization eye-catching? 
+- How did you feel after reading? 
+- Were you inspired to think that you can make a change possible?
+- What worked well and bad? Is there anything that you would change? 
 
 Thank you so much for your time and answers.
 
