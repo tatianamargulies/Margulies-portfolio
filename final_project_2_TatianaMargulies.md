@@ -74,15 +74,15 @@ Thank you so much for your time and answers.
 
 The first participant answered the following,
 
-| Objective     | Question    | Feedback 1    |
-| ------------- | ----------- | ------------- |
-| Understanding  | Do you understand the message of the story? Do you know who the target audience is?  | Contenido de la celda  |
-| Previous knowledge  | Did you know about the relationship between social factors and life expectancy?  | Contenido de la celda  |
-| Consistency  | Do the visualizations support the idea? Did you find anything confusing?  | Contenido de la celda  |
-| Design  | Do the colors/design/layout/size/labels/etc are appropriate? Are the visualization eye-catching?  | Contenido de la celda  |
-| Emotions  | How did you feel after reading?   | Contenido de la celda  |
-| Motivation  | Were you inspired to think that you can make a change possible?  | Contenido de la celda  |
-| Improvement | What worked well and bad? Is there anything that you would change?  | Contenido de la celda  |
+| Objective     | Male - 26 years old - Social Sciences (Economist)    |
+| ------------- | ------------- |
+| Understanding  | Yes, the message that we can make a difference to change for better is clear. I believe the target audience is people from poor countries, people interested in economics and the general public as well.  |
+| Previous knowledge  | Yes, but I had not thought about it with the level of detail on this article. I've just heard about a possible relationship on some talks or articles  |
+| Consistency  | Yes absolutely, the visualizations are very clear and do support the idea. Nothing confusing from my end |
+| Design  | Yes, the design is adequate, the visualizations are eye-catching. The colors are appropiate, the layout and the labels are correct  |
+| Emotions  | This article made me think about how sometimes in life we prioritize some things that we think might makes us happier but then actually don't as much as we thought. And I realised that other things as these social factors are more important than what we think. |
+| Motivation  | Yes indeed, as the article says even though sometimes we might feel small in this huge world, I believe that each person can make a difference and change the world for the better. I felt inspired after reading Ghandi's quote. Good ending.  |
+| Improvement | I really liked the inspiring message of the article and the perspective of the internal factors. The transition of maps is also nice. As a recommendation, I would try to use images in higher resolution in order to have a more professional look as a whole. But overall, the presentation and the links to the studies look good. It shows that you hvae done research about the topic.  |
 
 The second participant answered the following,
 
