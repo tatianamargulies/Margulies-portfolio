@@ -82,7 +82,7 @@ The first participant came as a refugee to Australia when he was young to look f
 | Design  | Yes, the visualizations and formatting are appropriate and eye-catching.  |
 | Emotions  | It touched me and reminded me of my time with my family. I feel like I want to hug them now. I also feel inspired to support people and emotional.  |
 | Motivation  | Yes, the presentation inspires me to support various causes that uplift people around the world. Not only in my country. Sometimes it is hard to think that we can make a change but this presentation left me with willingness to help. We need to coach people with a new way of thinking |
-| Improvement | The data and graphics are clear and the tone is inspiring; the presentation overall works very well. Recommendations: It might be good to add references for the data and rephrase some paragraphs.  |
+| Improvement | The data and graphics are clear and the tone is inspiring; the presentation overall works very well. Recommendations: It might be good to change the title, it could be "life expectancy analysis of Developing and Developed Nations" because you analyse developed countries too. Also, just make sure to show the labels for the negative factors. |
 
 The second participant answered the following,
 
@@ -94,7 +94,7 @@ The second participant answered the following,
 | Design  | Yes, the design is adequate, the visualizations are eye-catching. The colors are appropiate, the layout and the labels are correct  |
 | Emotions  | This article made me think about how sometimes in life we prioritize some things that we think might makes us happier but then actually don't as much as we thought. And I realised that other things as these social factors are more important than what we think. |
 | Motivation  | Yes indeed, as the article says even though sometimes we might feel small in this huge world, I believe that each person can make a difference and change the world for the better. I felt inspired after reading Ghandi's quote. Good ending.  |
-| Improvement | I really liked the inspiring message of the article and the perspective of the internal factors. The transition of maps is also nice. As a recommendation, I would try to use images in higher resolution in order to have a more professional look as a whole. But overall, the presentation and the links to the studies look good. It shows that you hvae done research about the topic.  |
+| Improvement | I really liked the inspiring message of the article and the perspective of the internal factors. The transition of maps is also nice. As a recommendation, I would try to use images in higher resolution in order to have a more professional look as a whole. And maybe rephrase some paragraphs, I know it is a draft.  But overall, the presentation and the links to the studies look good. It shows that you hvae done research about the topic.  |
 
 The third participant answered the following,
 
@@ -110,14 +110,42 @@ The third participant answered the following,
 
 # Plan To Implement New Insights
 
-After talking to some people and getting their feedback, I analyzed the answers and I thought of implementing these changes in the final version of the project so that my story results more effective.
+After talking to some people and getting their feedback, I analyzed their answers and my research goals to see how well each goal was achieved.
 
--
--
--
--
+- Understanding: It seems like everyone understood who was my target audience and the message to convey. Some people gave a wider answer for the audience but overall all of them were going in the same direction. It was not confusing.
 
+- Previous Knowledge: Only a person in the psycology field knew about the relationship between social factors and life expectancy. It was a new finding for everyone.
 
+- Consistency: In the negative external factors part, the labels were not included. This was a mistake when I copied the image and croped it. The title of the presentation should be analysis of developing but also developed countries to be more consistent with the story. Also, some terminologies were not explained.
 
+- Design: Overall good. Some images were not in high resolution
 
+- Emotions: A bit more emphasis in the internal factors will help to achieve more emotions. It is short compared to the rest of the presentation.
 
+- Motivation: It worked well for everyone but I can include some ways to contribute as well.
+
+- Area of Improvements: Summarizing all the comments that I received, this is the conclusion:
+
+**Worked well**:
+
+- Understanding of audience and key message
+- Design and transitions
+- Research about the topic
+- Supporting visualizations
+- Inspiration feeling
+
+**Worked bad**:
+
+- Internal factors part too short
+- Terminologies not explained
+- Low resolution in some images
+- Some labels missing for diseases in negative external factors
+- Title add developed countries too
+
+**What I would change**:
+
+- Mention ways to contribute implementing social factors
+- Extending internal factors part
+- Rephrase some paragraphs
+
+I will consider what worked well, bad and what I would change to implement these changes in the final version of the project so that my story results more effective.
