@@ -108,7 +108,7 @@ The third participant answered the following,
 | Motivation  | Yes. Change starts from within!  |
 | Improvement | “Change starts with you” was very empowering and motivational. However, it could be elaborated with ways to do so. This section of the presentation felt a bit short in comparison. You can add more things into that part. it looks like the project is more to educate about the difference between the two countries and not about how to contribute to the change as much. Also, some of the terminologies were not explained. So it left me confused.  |
 
-# Plan To Implement New Insights
+# Plan to implement new insights
 
 After talking to some people and getting their feedback, I analyzed their answers and my research goals to see how well each goal was achieved.
 
