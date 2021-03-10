@@ -60,10 +60,10 @@ Thank you for your time in helping me with your feedback.
 
 I am doing a project for a course at university called "Telling Stories With Data". I am doing a final project and I chose to talk about Life expectancy in poor countries. This is a draft of what the final project is going to look like. I appreciate if you can help me reading the presentation and answering the following questions to improve the final version. I would like to evaluate these aspects in order to prepare a more persuasive presentation and reach my target audience.
 
-- Do you understand the message of the story? Do you know who the target audience is?
+- Do you understand the message of the story? What is it? Do you know who the target audience is?
 - Did you know about the relationship between social factors and life expectancy?
 - Do the visualizations support the idea? Did you find anything confusing? 
-- Do the colors/design/layout/size/labels/etc are appropriate? Are the visualization eye-catching? 
+- Are the colors/design/layout/size/labels/etc appropriate? Are the visualization eye-catching? 
 - How did you feel after reading? 
 - Were you inspired to think that you can make a change possible?
 - What worked well and bad? Is there anything that you would change? 
@@ -72,7 +72,19 @@ Thank you so much for your time and answers.
 
 # Findings
 
-The first participant answered the following,
+The first participant came as a refugee to Australia when he was young to look for better opportunities. He answered the following,
+
+| Objective     |  Male - 33 years old - Social Sciences (Coaching & Leadership)   |
+| ------------- | -------------  |
+| Understanding  | There is a multi-factor correlation between life expectancy and the development of a country.  External factors such as public policies and governance are not easily altered but individuals can improve their chances of living longer by implementing internal factors such as living happily and generously.  The target audience is the general populace - people simply trying to make a better life for themselves and others around the world as well but mainly people from underdeveloped countries. |
+| Previous knowledge  | Before this presentation, only a little. |
+| Consistency  | Yes, the visualizations support the idea.  The graphics and text are on point, easily understandable, and well-supported. |
+| Design  | Yes, the visualizations and formatting are appropriate and eye-catching.  |
+| Emotions  | It touched me and reminded me of my time with my family. I feel like I want to hug them now. I also feel inspired to support people and emotional.  |
+| Motivation  | Yes, the presentation inspires me to support various causes that uplift people around the world. Not only in my country. Sometimes it is hard to think that we can make a change but this presentation left me with willingness to help. We need to coach people with a new way of thinking |
+| Improvement | The data and graphics are clear and the tone is inspiring; the presentation overall works very well. Recommendations: It might be good to add references for the data and rephrase some paragraphs.  |
+
+The second participant answered the following,
 
 | Objective     | Male - 26 years old - Social Sciences (Economist)    |
 | ------------- | ------------- |
@@ -84,29 +96,17 @@ The first participant answered the following,
 | Motivation  | Yes indeed, as the article says even though sometimes we might feel small in this huge world, I believe that each person can make a difference and change the world for the better. I felt inspired after reading Ghandi's quote. Good ending.  |
 | Improvement | I really liked the inspiring message of the article and the perspective of the internal factors. The transition of maps is also nice. As a recommendation, I would try to use images in higher resolution in order to have a more professional look as a whole. But overall, the presentation and the links to the studies look good. It shows that you hvae done research about the topic.  |
 
-The second participant answered the following,
-
-| Objective     | Question    | Feedback 2    |
-| ------------- | ----------- | ------------- |
-| Understanding  | Do you understand the message of the story? Do you know who the target audience is?  | Contenido de la celda  |
-| Previous knowledge  | Did you know about the relationship between social factors and life expectancy?  | Contenido de la celda  |
-| Consistency  | Do the visualizations support the idea? Did you find anything confusing?  | Contenido de la celda  |
-| Design  | Do the colors/design/layout/size/labels/etc are appropriate? Are the visualization eye-catching?  | Contenido de la celda  |
-| Emotions  | How did you feel after reading?   | Contenido de la celda  |
-| Motivation  | Were you inspired to think that you can make a change possible?  | Contenido de la celda  |
-| Improvement | What worked well and bad? Is there anything that you would change?  | Contenido de la celda  |
-
 The third participant answered the following,
 
-| Objective     | Question    | Feedback 3    |
-| ------------- | ----------- | ------------- |
-| Understanding  | Do you understand the message of the story? Do you know who the target audience is?  | Contenido de la celda  |
-| Previous knowledge  | Did you know about the relationship between social factors and life expectancy?  | Contenido de la celda  |
-| Consistency  | Do the visualizations support the idea? Did you find anything confusing?  | Contenido de la celda  |
-| Design  | Do the colors/design/layout/size/labels/etc are appropriate? Are the visualization eye-catching?  | Contenido de la celda  |
-| Emotions  | How did you feel after reading?   | Contenido de la celda  |
-| Motivation  | Were you inspired to think that you can make a change possible?  | Contenido de la celda  |
-| Improvement | What worked well and bad? Is there anything that you would change?  | Contenido de la celda  |
+| Objective     | Female - 23 years old - Social Sciences (Psychologist)    |
+| ------------- | ------------- |
+| Understanding  | From my understanding, the story compares the factors affecting life expectancy in developed and developing countries. It also talks about a few ways to improve longevity in poor countries. It sounds like the target audience is the residents of developing countries.  |
+| Previous knowledge  | Social factors are positively related to life expectancy.  |
+| Consistency  | Yes, the visualisations support the idea. I found the transitions very interesting. |
+| Design  | Yes, the graphs are eye-catching. I like the design and the flow of the presentation |
+| Emotions  | It made me feel like it is possible to start making a change from just one person.  |
+| Motivation  | Yes. Change starts from within!  |
+| Improvement | “Change starts with you” was very empowering and motivational. However, it could be elaborated with ways to do so. This section of the presentation felt a bit short in comparison. You can add more things into that part. it looks like the project is more to educate about the difference between the two countries and not about how to contribute to the change as much. Also, some of the terminologies were not explained. So it left me confused.  |
 
 # Plan To Implement New Insights
 
