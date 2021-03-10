@@ -6,7 +6,7 @@ After submitting part 1 and reviewing the data in detail, I decided to make a sm
 
 # Moodboard
 
-I created this moodboard using Canva which shows a sense of hope and happiness given that life expectancy could improve by focusing on the social factors. I thought it was a good idea to give a more visual focus on my message. I incorporated some ideas in the wireframes and storyboard.
+I created this moodboard using Canva which shows a sense of hope and happiness given that life expectancy could improve by focusing on the social factors. I thought it was a good idea to give a more visual focus on my message. I incorporated some of these ideas in the wireframes and storyboard.
 
 ![Moodboard](Moodboard.jpg)
 
