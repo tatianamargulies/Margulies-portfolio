@@ -108,6 +108,12 @@ The third participant answered the following,
 | Motivation  | Yes. Change starts from within!  |
 | Improvement | “Change starts with you” was very empowering and motivational. However, it could be elaborated with ways to do so. This section of the presentation felt a bit short in comparison. You can add more things into that part. it looks like the project is more to educate about the difference between the two countries and not about how to contribute to the change as much. Also, some of the terminologies were not explained. So it left me confused.  |
 
+After the critique exercise in class, I also got some feedback:
+
+- Change color in negative external factor for Finland (I forget to put blue as the graph above)
+- The second map color has orange and it can be confused with the orange in the previous map
+- Use of infographics could be useful for the factors 
+
 # Plan to implement new insights
 
 After talking to some people and getting their feedback, I analyzed their answers and my research goals to see how well each goal was achieved.
@@ -148,4 +154,4 @@ After talking to some people and getting their feedback, I analyzed their answer
 - Extending internal factors part
 - Rephrase some paragraphs
 
-I will consider what worked well, bad and what I would change to implement these changes in the final version of the project so that my story results more effective.
+I will consider what worked well, bad, what I would change and the feedback from my classmates to implement these changes in the final version of the project so that my story results more effective.
