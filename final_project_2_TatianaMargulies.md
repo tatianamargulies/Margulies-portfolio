@@ -23,7 +23,7 @@ Below is the link to the wireframes and storyboard in Shorthand
 
 **Target Audience**
 
-Population of undeveloped countries like Sierra Leone in Africa with poor distribution of resources, little education, and low access to health services. Particularly citizens between 15-40 years old because life expectancy in these countries is too low (average of around 40 years old). Therefore, to generate an impact we will need to action before that age.
+Population of developing countries like Sierra Leone in Africa with poor distribution of resources, little education, and low access to health services. Particularly citizens between 15-40 years old because life expectancy in these countries is too low (average of around 40 years old). Therefore, to generate an impact we will need to action before that age.
 
 **Motivation**
 
@@ -31,7 +31,7 @@ Coming from an actuarial background, I was interested in the longevity topic and
 
 **Approach to identifying individuals**
 
-The objective in my approach will be to gather people from different backgrounds so that we do not bias the results. For example, one participant is a psychology student. Why? Because my topic is related to a change in behaviour and the relationship between social factors and longevity. She will be interested in the topic and she could give me constructive feedback about ideas to implement and show the findings. Also, I asked the questions to a low class person so that he can give more feedback about how to approach my audience in conveying the general message. My audience is people with low resources so he may be more touched about the story and help me with the emotional and motivational goal. I prepared a script with questions and the approach will be to show them the presentation and then think of answers to my questions. The questions asked are related to understanding of the story, previous knowledge, consistency, visualization critique, emotional aspects, motivation to contribute to a change and finally, feedback for improvement.
+The objective in my approach will be to gather people from different backgrounds so that we do not bias the results. For example, one participant is a psychology student. Why? Because my topic is related to a change in behaviour and the relationship between social factors and longevity. She will be interested in the topic and she could give me constructive feedback about ideas to implement and show the findings. Also, I asked the questions to a refugee that came to Australia so that he can give more feedback about how to approach my audience in conveying the general message. My audience is people with low resources so he may be more touched about the story and help me with the emotional and motivational goal. I will focus more in people with social sciences background. I prepared a script with questions and the approach will be to show them the presentation and then think of answers to my questions. The questions asked are related to understanding of the story, previous knowledge, consistency, visualization critique, emotional aspects, motivation to contribute to a change and finally, feedback for improvement.
 
 
 # Research Goals
@@ -114,7 +114,7 @@ After talking to some people and getting their feedback, I analyzed their answer
 
 - Understanding: It seems like everyone understood who was my target audience and the message to convey. Some people gave a wider answer for the audience but overall all of them were going in the same direction. It was not confusing.
 
-- Previous Knowledge: Only a person in the psycology field knew about the relationship between social factors and life expectancy. It was a new finding for everyone.
+- Previous Knowledge: Only a person in the psychology field knew about the relationship between social factors and life expectancy. It was a new finding for everyone.
 
 - Consistency: In the negative external factors part, the labels were not included. This was a mistake when I copied the image and croped it. The title of the presentation should be analysis of developing but also developed countries to be more consistent with the story. Also, some terminologies were not explained.
 
