@@ -2,8 +2,11 @@
 
 Part 1 of the project was useful in the way that it helped to sketch the idea of the project. I started thinking about the message, how to present the data, which graphs were more effective and to have an idea of the audience.
 In part 2, I could narrow down the analysis and focus on a more specific audience. I improved the visualizations using tools and created a draft of the presentation to show to people.
-With that in mind, I received comments and feedback that made me realised that still there was a lot to improve and I got ideas to implement in the final story. It also helped me to notice that I needed to extend the last part of the story to reach my audience. I was not giving so much attention to that and it was a key issue in the story.
-Because of the previous two parts, I arrived to the third part of the project with a clearer picture of what changes I needed to implement. 
+With that in mind, I received comments and feedback that made me realised that still there was a lot to improve and I got ideas to implement in the final story. It also helped me to notice that I needed to extend the last part of the story to reach my audience. My audience is people from developing countries with low resources and I was not giving so much attention to ways to improve life expectancy as I gave to the introduction and the problem. This was a key finding in part 2. 
+
+The fact of doing the critique exercise in class was valuable. First, I noticed that different people have different perspectives and ways of looking at the things. With the interviews in part 2 I got a lot of value with changes I have not thought about before. But also, it is important to know that sometimes different backgrounds and personal situations make people focus on different aspects. The critique I got from class, was more related to changes in the visualization to make them more effective. This was also result of the learning in the course about how to be more persuasive, not to overload graphs, correct use of colors and design. For example they suggested removing axis if I did not want to highlight the numbers but the size. The findings I got from the interviews, were more realted to message, structure of the story and content itself. My reflection on this is that it is useful to experiment both methods before jumping into the final project because they complement each other and you can maximize the value listening to other perspectives.
+
+Because of the previous two parts of the project, I arrived to the third part of it with a clearer picture of what changes I needed to implement. 
 
 I decided to make the following modifications in my story,
 
