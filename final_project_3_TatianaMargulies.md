@@ -74,3 +74,4 @@ To access the final presentatio in Shorthand, use the following link:
 
 - [https://medium.com/@LibyanRunner/be-the-change-you-want-to-see-in-the-world-66ca95186c99](https://medium.com/@LibyanRunner/be-the-change-you-want-to-see-in-the-world-66ca95186c99)
 
+- [https://topyaps.com/top-10-ways-to-contribute-to-society/](https://topyaps.com/top-10-ways-to-contribute-to-society/)
