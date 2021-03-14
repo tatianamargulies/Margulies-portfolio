@@ -30,3 +30,8 @@ I decided to make the following modifications in my story,
 6) I rephrased some paragraphs of the story to use a more effective language for the purpose of the presentation
 
 7) I mentioned some ways to contribute to living longer. The call to action was there but now I also gave some ways to make it possible apart from the fact of conveying the message.
+
+# Link to Story
+
+To access the final presentatio in Shorthand, use the following link
+
