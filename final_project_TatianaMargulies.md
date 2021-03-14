@@ -1,8 +1,8 @@
 Navigate through the pages in case you want to see the content of different parts,
 
-[Go to Final Project - Part 1](final_project_TatianaMargulies.md)
-
 [Go to Final Project - Part 2](final_project_2_TatianaMargulies.md)
+
+[Go to Final Project - Part 3](final_project_3_TatianaMargulies.md)
 
 
 # Outline
