@@ -18,9 +18,15 @@ I decided to make the following modifications in my story,
 
 
 1) I extended the internal factors part because it represents my main message and it was short in comparison to the introduction 
+
 2) I explained terminologies that I assumed people already knew like GDP (Gross Domestic Product)
+
 3) I changed some images to improve the resolution
+
 4) I added the labels which say the name of the disease in the negative internal factor comparison. It was missing because of the size of the image.
+
 5) I changed the title and added developed countries too because my comparison is between developing and developed countries
+
 6) I rephrased some paragraphs of the story to use a more effective language for the purpose of the presentation
+
 7) I mentioned some ways to contribute to living longer. The call to action was there but now I also gave some ways to make it possible apart from the fact of conveying the message.
