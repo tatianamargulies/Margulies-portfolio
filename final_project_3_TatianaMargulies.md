@@ -1,3 +1,8 @@
+Navigate through the pages in case you want to see the content of different parts,
+
+[Go to Final Project - Part 1](final_project_TatianaMargulies.md)
+[Go to Final Project - Part 2](final_project_2_TatianaMargulies.md)
+
 # Changes in the Story
 
 Part 1 of the project was useful in the way that it helped to sketch the idea of the project. I started thinking about the message, how to present the data, which graphs were more effective and to have an idea of the audience.
