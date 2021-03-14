@@ -33,6 +33,9 @@ I decided to make the following modifications in my story,
 
 8) I added references at the end of the presentation with the datasets used and the story links
 
+9) I changed Finland color in diseases to make it consistent through the project and removed axis from the factors graphs because it was creating confusing in the reader as there were more than one measure analysed and different scales. The idea with these visualizations is to show high or low not the exact value, so it is better to look at the bar.
+
+
 # Link to Story
 
 To access the final presentatio in Shorthand, use the following link:
