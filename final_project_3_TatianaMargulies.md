@@ -31,6 +31,8 @@ I decided to make the following modifications in my story,
 
 7) I mentioned some ways to contribute to living longer. The call to action was there but now I also gave some ways to make it possible apart from the fact of conveying the message.
 
+8) I added references at the end of the presentation with the datasets used and the story links
+
 # Link to Story
 
 To access the final presentatio in Shorthand, use the following link:
