@@ -41,31 +41,31 @@ To access the final presentatio in Shorthand, use the following link:
 
 **Datasets**
 
--[https://www.kaggle.com/kumarajarshi/life-expectancy-who](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
+- [https://www.kaggle.com/kumarajarshi/life-expectancy-who](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
 
--[https://statisticstimes.com/geography/countries-by-continents.php](https://statisticstimes.com/geography/countries-by-continents.php)
+- [https://statisticstimes.com/geography/countries-by-continents.php](https://statisticstimes.com/geography/countries-by-continents.php)
 
--[https://www.kaggle.com/unsdsn/world-happiness](https://www.kaggle.com/unsdsn/world-happiness)
+- [https://www.kaggle.com/unsdsn/world-happiness](https://www.kaggle.com/unsdsn/world-happiness)
 
 **Story**
 
--[https://www.valrhona-chocolate.com/commitment]([https://www.valrhona-chocolate.com/commitment])
+- [https://www.valrhona-chocolate.com/commitment](https://www.valrhona-chocolate.com/commitment)
 
--[https://www.everydayhealth.com/healthy-living/cdc-reports-drop-us-life-expectancy/](https://www.everydayhealth.com/healthy-living/cdc-reports-drop-us-life-expectancy/)
+- [https://www.everydayhealth.com/healthy-living/cdc-reports-drop-us-life-expectancy/](https://www.everydayhealth.com/healthy-living/cdc-reports-drop-us-life-expectancy/)
 
--[https://www.dreamstime.com/illustration/heartbeat.html](https://www.dreamstime.com/illustration/heartbeat.html)
+- [https://www.dreamstime.com/illustration/heartbeat.html](https://www.dreamstime.com/illustration/heartbeat.html)
 
--[http://www.nickmilton.com/2014/02/your-cko-internal-or-external.html](http://www.nickmilton.com/2014/02/your-cko-internal-or-external.html)
+- [http://www.nickmilton.com/2014/02/your-cko-internal-or-external.html](http://www.nickmilton.com/2014/02/your-cko-internal-or-external.html)
 
--[https://theconversation.com/happiness-may-be-a-choice-except-that-its-constrained-by-vested-economic-interests-118435](https://theconversation.com/happiness-may-be-a-choice-except-that-its-constrained-by-vested-economic-interests-118435)
+- [https://theconversation.com/happiness-may-be-a-choice-except-that-its-constrained-by-vested-economic-interests-118435](https://theconversation.com/happiness-may-be-a-choice-except-that-its-constrained-by-vested-economic-interests-118435)
 
--[https://www.rachelbeohm.com/make-it-easy-for-others-to-give-you-what-you-want/](https://www.rachelbeohm.com/make-it-easy-for-others-to-give-you-what-you-want/)
+- [https://www.rachelbeohm.com/make-it-easy-for-others-to-give-you-what-you-want/](https://www.rachelbeohm.com/make-it-easy-for-others-to-give-you-what-you-want/)
 
--[https://www.istockphoto.com/search/2/image?phrase=freedom](https://www.istockphoto.com/search/2/image?phrase=freedom)
+- [https://www.istockphoto.com/search/2/image?phrase=freedom](https://www.istockphoto.com/search/2/image?phrase=freedom)
 
--[https://www.hsph.harvard.edu/news/hsph-in-the-news/active-social-life-longevity/](https://www.hsph.harvard.edu/news/hsph-in-the-news/active-social-life-longevity/)
+- [https://www.hsph.harvard.edu/news/hsph-in-the-news/active-social-life-longevity/](https://www.hsph.harvard.edu/news/hsph-in-the-news/active-social-life-longevity/)
 
--[https://greatergood.berkeley.edu/article/item/how_your_social_life_might_help_you_life_longer](https://greatergood.berkeley.edu/article/item/how_your_social_life_might_help_you_life_longer)
+- [https://greatergood.berkeley.edu/article/item/how_your_social_life_might_help_you_life_longer](https://greatergood.berkeley.edu/article/item/how_your_social_life_might_help_you_life_longer)
 
--[https://medium.com/@LibyanRunner/be-the-change-you-want-to-see-in-the-world-66ca95186c99](https://medium.com/@LibyanRunner/be-the-change-you-want-to-see-in-the-world-66ca95186c99)
+- [https://medium.com/@LibyanRunner/be-the-change-you-want-to-see-in-the-world-66ca95186c99](https://medium.com/@LibyanRunner/be-the-change-you-want-to-see-in-the-world-66ca95186c99)
 
