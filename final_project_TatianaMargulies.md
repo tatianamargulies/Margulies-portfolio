@@ -1,3 +1,10 @@
+Navigate through the pages in case you want to see the content of different parts,
+
+[Go to Final Project - Part 1](final_project_TatianaMargulies.md)
+
+[Go to Final Project - Part 2](final_project_2_TatianaMargulies.md)
+
+
 # Outline
 
 The idea of the project is to give hope to people with the message that generosity in poor countries like some in Africa, can be a key issue to increase longevity. I will start showing that there is a correlation with factors like GDP, diseases, deaths and therefore, high/low life expectancy. However, one of my findings is that generosity is higher in the countries that are less developed and this is something that we have control about. I will show studies saying that that social factors, sharing with people, helping others can contribute to have a healthly lifestyle. Because of that, I think that living longer starts with us. The audience is the population and the message is motivational. In conclusion, the idea is to convince them that even though there are things that as individuals we cannot control because they are external and more related to government strategies, policies, development of the country, etc everyone can make a little contribution to solve this problem by adopting generous practices in our daily lives.
