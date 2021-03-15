@@ -23,17 +23,17 @@ I decided to make the following modifications in my story,
 
 3) I changed some images to improve the resolution
 
-4) I added the labels which say the name of the disease in the negative internal factor comparison. It was missing because of the size of the image.
+4) I added infographics to better explain the comparison between positive and negative external factors. The bar charts were a bit confusing.
 
 5) I changed the title and added developed countries too because my comparison is between developing and developed countries
 
-6) I rephrased some paragraphs of the story to use a more effective language for the purpose of the presentation
+6) I rephrased almost all the paragraphs of the story to use a more effective language for the purpose of the presentation. The first version was a draft.
 
 7) I mentioned some ways to contribute to living longer. The call to action was there but now I also gave some ways to make it possible apart from the fact of conveying the message.
 
 8) I added references at the end of the presentation with the datasets used and the story links
 
-9) I changed Finland color in diseases to make it consistent through the project and removed axis from the factors graphs because it was creating confusing in the reader as there were more than one measure analysed and different scales. The idea with these visualizations is to show high or low not the exact value, so it is better to look at the bar.
+9) I removed axis in the internal factors graphs because it was creating confusing in the reader as there were more than one measure analysed and different scales. The idea with these visualizations is to show high or low not the exact value, so it was better to look at the bar.
 
 
 # Link to Story
