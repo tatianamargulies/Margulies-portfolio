@@ -1,4 +1,8 @@
 
+[Go to Final Project - Part 1](final_project_TatianaMargulies.md)
+
+[Go to Final Project - Part 3](final_project_3_TatianaMargulies.md)
+
 
 # Changes from Part 1
 
