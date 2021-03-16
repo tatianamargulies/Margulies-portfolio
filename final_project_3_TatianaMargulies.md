@@ -8,6 +8,55 @@ Navigate through the pages in case you want to see the content of different part
 
 [Final Presentation in Shorthand](https://carnegiemellon.shorthandstories.com/can-we-contribute-to-living-longer--/index.html)
 
+
+## Summary of Part 1
+
+# Outline
+
+The idea of the project is to give hope to people with the message that generosity in poor countries like some in Africa, can be a key issue to increase longevity. The idea is to convince them that even though there are things that as individuals we cannot control because they are external and more related to government strategies, policies, development of the country, etc everyone can make a little contribution to solve this problem by adopting generous practices in our daily lives.
+
+Project structure
+
+-Setup: Developed countries have higher life expectancy than developing countries.
+
+-Conflict: The reasons driving life expectancy appear to be external, related to government policies/strategies
+
+-Resolution: Generosity could make us live longer and as it is internal, we can adopt it.
+
+# Initial Sketches
+
+These are the sketches that give an idea of the setup, the conflict and the resolution,
+
+![Image1](Sketch1.jpg)
+
+![Image2](Sketch2.jpg)
+
+
+# Data
+
+The data to be used in the project consist of three different datasets,
+
+1) Life expectancy: This is the main dataset which includes information about all the countries with different time periods from 2005 to 2015. It shows the life expectancy values for each country, some diseases such as HIV/Hepathitis/ Measles, infant deaths, developed countries, public expenditure on health, schooling, etc.
+
+Source: [World Health Organization (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
+
+
+2) Mapping of continents: This dataset has the mapping of countries and continents to provide some information at a higher level. It will be used at the beginning to show a summary of the situation by continent instead of showing all the countries. 
+
+Source: [United Nations Statistics Division](https://statisticstimes.com/geography/countries-by-continents.php)
+
+3) Happiness world index: This dataset has a list of countries with the happiness score for each country as well as the rank. It also shows how factors such as family, trust in government, generosity, contribute to the happiness score. It is going to be merged with the life expectancy dataset.
+ 
+Source: [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness)
+
+
+# Method and Medium
+
+The project is going to be developed using Shorthand as a tool to create the presentation and the tool to generate the visualizations will be mainly Tableau. 
+The development of the project will start by contrasting in a map the countries that are developed and developing. Once we have an idea about geographical regions we will start summarizing the data by continents to go from general to more specific information. The idea will be to compare variables like life expectancy, GDP, public spenditure, diseases. Then, we can focus the attention on the countries with highest life expectancy and lowest life expectancy to compare them and try to identify the reasons behind the values. Finally, the idea will be to show that living longer depends on the factors analyzed but something important that nobody considered is that social factors like generosity are higher in the countries which are less developed. And the poweful thing here is that we have control about that, so living longer could start with us.
+
+
+
 # Changes in the Story
 
 Part 1 of the project was useful in the way that it helped to sketch the idea of the project. I started thinking about the message, how to present the data, which graphs were more effective and to have an idea of the audience.
