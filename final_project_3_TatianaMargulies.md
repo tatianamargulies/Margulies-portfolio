@@ -1,8 +1,12 @@
 Navigate through the pages in case you want to see the content of different parts,
 
+[Home Directory](README.md)
+
 [Go to Final Project - Part 1](final_project_TatianaMargulies.md)
 
 [Go to Final Project - Part 2](final_project_2_TatianaMargulies.md)
+
+[Final Presentation in Shorthand](https://carnegiemellon.shorthandstories.com/can-we-contribute-to-living-longer--/index.html)
 
 # Changes in the Story
 
