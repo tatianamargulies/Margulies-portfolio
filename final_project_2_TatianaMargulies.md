@@ -1,4 +1,6 @@
 
+Navigate through the pages in case you want to see the content of different parts,
+
 [Home Directory](README.md)
 
 [Go to Final Project - Part 1](final_project_TatianaMargulies.md)
