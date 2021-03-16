@@ -7,10 +7,10 @@ Navigate through the pages in case you want to see the content of different part
 # Changes in the Story
 
 Part 1 of the project was useful in the way that it helped to sketch the idea of the project. I started thinking about the message, how to present the data, which graphs were more effective and to have an idea of the audience.
-In part 2, I could narrow down the analysis and focus on a more specific audience. I improved the visualizations using tools and created a draft of the presentation to show to people.
-With that in mind, I received comments and feedback that made me realised that still there was a lot to improve and I got ideas to implement in the final story. It also helped me to notice that I needed to extend the last part of the story to reach my audience. My audience is people from developing countries with low resources and I was not giving so much attention to ways to improve life expectancy as I gave to the introduction and the problem. This was a key finding in part 2. 
+In part 2, I could narrow down the analysis and focus on a more specific audience. I improved the visualizations using tools and created a draft of the presentation to show to different users.
+With that in mind, I received comments and feedback that made me realised that still there was a lot to improve and I got ideas to implement in the final story. It also helped me to notice that I needed to extend the last part of the story to reach my audience. My audience is people from developing countries with low resources and, I was not giving so much attention to ways to improve life expectancy as I gave to the introduction and the problem. This was a key finding in part 2. 
 
-The fact of doing the critique exercise in class was valuable. First, I noticed that different people have different perspectives and ways of looking at the things. With the interviews in part 2 I got a lot of value with changes I have not thought about before. But also, it is important to know that sometimes different backgrounds and personal situations make people focus on different aspects. The critique I got from class, was more related to changes in the visualization to make them more effective. This was also result of the learning in the course about how to be more persuasive, not to overload graphs, correct use of colors and design. For example they suggested removing axis if I did not want to highlight the numbers but the size. The findings I got from the interviews, were more realted to message, structure of the story and content itself. My reflection on this is that it is useful to experiment both methods before jumping into the final project because they complement each other and you can maximize the value listening to other perspectives.
+The fact of doing the critique exercise in class was valuable. First, I noticed that different people have different perspectives and ways of looking at the things. With the interviews in part 2 I got a lot of value with changes I have not thought about before. But also, it is important to know that sometimes different backgrounds and personal situations make people focus on different aspects. The critique I got from class, was more related to changes in the visualization to make them more effective. This was also result of the learning in the course about how to be more persuasive, not to overload graphs, correct use of colors and design. For example, they suggested removing axis if I did not want to highlight the numbers but the size. The findings I got from the interviews, were more realted to message, structure of the story and content itself. My reflection on this is that it is useful to experiment both methods before jumping into the final project because they complement each other and you can maximize the value listening to other perspectives.
 
 Because of the previous two parts of the project, I arrived to the third part of it with a clearer picture of what changes I needed to implement. 
 
@@ -23,7 +23,7 @@ I decided to make the following modifications in my story,
 
 3) I changed some images to improve the resolution
 
-4) I added infographics to better explain the comparison between positive and negative external factors. The bar charts were a bit confusing.
+4) I added infographics to better explain the comparison between positive and negative external factors. The bar charts were a bit confusing. The comments from part 2 correction also suggested a change in the way to display the data.
 
 5) I changed the title and added developed countries too because my comparison is between developing and developed countries
 
@@ -31,14 +31,14 @@ I decided to make the following modifications in my story,
 
 7) I mentioned some ways to contribute to living longer. The call to action was there but now I also gave some ways to make it possible apart from the fact of conveying the message.
 
-8) I added references at the end of the presentation with the datasets used and the story links
+8) I added references at the end of the presentation with the datasets used and the story links.
 
-9) I removed axis in the internal factors graphs because it was creating confusing in the reader as there were more than one measure analysed and different scales. The idea with these visualizations is to show high or low not the exact value, so it was better to look at the bar.
+9) I removed axis in the internal factors graphs because it was creating confusing in the reader as there were more than one measure analysed and different scales. The idea with these visualizations is to show high or low not the exact value, so it was better to look at the bar itself.
 
 
 # Link to Story
 
-To access the final presentatio in Shorthand, use the following link:
+To access the final presentation in Shorthand, use the following link:
 
 [Go to presentation](https://carnegiemellon.shorthandstories.com/can-we-contribute-to-living-longer--/index.html)
 
