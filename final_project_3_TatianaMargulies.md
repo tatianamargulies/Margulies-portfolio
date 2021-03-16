@@ -40,7 +40,7 @@ I decided to make the following modifications in my story,
 
 To access the final presentatio in Shorthand, use the following link:
 
-[Go to presentation](https://preview.shorthand.com/wekqSHCGQIgCcBF9)
+[Go to presentation](https://carnegiemellon.shorthandstories.com/can-we-contribute-to-living-longer--/index.html)
 
 # References
 
