@@ -78,7 +78,7 @@ Population of developing countries like Sierra Leone in Africa with poor distrib
 
 **Approach to identifying individuals**
 
-The objective in my approach was be to gather people from different backgrounds so that we do not bias the results. For example, one participant is a psychology student. Why? Because my topic is related to a change in behaviour and the relationship between social factors and longevity. She was be interested in the topic and she could give me constructive feedback about ideas to implement and show the findings. Also, I asked the questions to a refugee that came to Australia so that he can give more feedback about how to approach my audience in conveying the general message. My audience is people with low resources so he may be more touched about the story and help me with the emotional and motivational goal. I will focus more in people with social sciences background.
+The objective in my approach was to gather people from different backgrounds so that we do not bias the results. For example, one participant is a psychology student. Why? Because my topic is related to a change in behaviour and the relationship between social factors and longevity. She was be interested in the topic and she could give me constructive feedback about ideas to implement and show the findings. Also, I asked the questions to a refugee that came to Australia so that he can give more feedback about how to approach my audience in conveying the general message. My audience is people with low resources so he may be more touched about the story and help me with the emotional and motivational goal. I will focus more in people with social sciences background.
 
 
 # Research Goals
