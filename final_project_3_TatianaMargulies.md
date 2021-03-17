@@ -15,6 +15,7 @@ Navigate through the pages in case you want to see the content of different part
 
 Part 1 of the project was useful in the way that it helped to sketch the idea of the project. I started thinking about the message, how to present the data, which graphs were more effective and to have an idea of the audience.
 In part 2, I could narrow down the analysis and focus on a more specific audience. I improved the visualizations using tools and created a draft of the presentation to show to different users.
+
 With that in mind, I received comments and feedback that made me realised that still there was a lot to improve and I got ideas to implement in the final story. It also helped me to notice that I needed to extend the last part of the story to reach my audience. My audience is people from developing countries with low resources and, I was not giving so much attention to ways to improve life expectancy as I gave to the introduction and the problem. I felt that my audience was motivated with the message but they did not have ways to implement my call to action. This was a key finding in part 2. 
 
 # Reflection on Design and Structure
