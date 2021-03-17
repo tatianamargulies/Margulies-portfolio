@@ -1,3 +1,8 @@
+Navigate through the pages in case you want to see the content of different parts,
+
+[Home Directory](README.md)
+
+
 # Original Visualization
 
 This is the visualization that I chose which shows Frequency of Electronic News usage divided by categories and age. The categories include never, once a month, once a day, several times a week, several times a month, ecc. The visualization can also be accesed on the website using this source [Link](https://www.cc.gatech.edu/gvu/user_surveys/survey-10-1996/graphs/use/Electronic_News.html)
