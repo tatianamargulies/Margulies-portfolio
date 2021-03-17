@@ -85,3 +85,7 @@ To access the final presentation in Shorthand, use the following link:
 - [https://medium.com/@LibyanRunner/be-the-change-you-want-to-see-in-the-world-66ca95186c99](https://medium.com/@LibyanRunner/be-the-change-you-want-to-see-in-the-world-66ca95186c99)
 
 - [https://topyaps.com/top-10-ways-to-contribute-to-society/](https://topyaps.com/top-10-ways-to-contribute-to-society/)
+
+- [https://en.wikipedia.org/wiki/Developed_country](https://en.wikipedia.org/wiki/Developed_country)
+
+- [https://en.wikipedia.org/wiki/Developing_country#:~:text=A%20developing%20country%20is%20a,HDI)%20relative%20to%20other%20countries.&text=The%20World%20Bank%20classifies%20the,middle%2C%20and%20low%20income%20countries.](https://en.wikipedia.org/wiki/Developing_country#:~:text=A%20developing%20country%20is%20a,HDI)%20relative%20to%20other%20countries.&text=The%20World%20Bank%20classifies%20the,middle%2C%20and%20low%20income%20countries.)
