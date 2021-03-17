@@ -88,4 +88,4 @@ To access the final presentation in Shorthand, use the following link:
 
 - [https://en.wikipedia.org/wiki/Developed_country](https://en.wikipedia.org/wiki/Developed_country)
 
-- [https://en.wikipedia.org/wiki/Developing_country#:~:text=A%20developing%20country%20is%20a,HDI)%20relative%20to%20other%20countries.&text=The%20World%20Bank%20classifies%20the,middle%2C%20and%20low%20income%20countries.](https://en.wikipedia.org/wiki/Developing_country#:~:text=A%20developing%20country%20is%20a,HDI)%20relative%20to%20other%20countries.&text=The%20World%20Bank%20classifies%20the,middle%2C%20and%20low%20income%20countries.)
+- [https://en.wikipedia.org/wiki/Developing_country#:~:text=A%20developing%20country%20is%20a,HDI)%20relative%20to%20other%20countries.&text=The%20World%20Bank%20classifies%20the,middle%2C%20and%20low%20income%20countries](https://en.wikipedia.org/wiki/Developing_country#:~:text=A%20developing%20country%20is%20a,HDI)
